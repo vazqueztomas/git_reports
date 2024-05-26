@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 typer = "*"
+requests = "*"
+bs4 = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
